@@ -1,0 +1,95 @@
+<?php
+// ═══════════════════════════════════════════════
+// WHMCS DEBUG — Run this on your server to see
+// exactly what each API endpoint returns
+// DELETE after debugging!
+// ═══════════════════════════════════════════════
+define('TOKEN', 'resellnom2025secret'); // same as clear-cache.php
+if(($_GET['token']??'') !== TOKEN){ echo 'Unauthorized'; exit; }
+
+$whmcs = 'https://my.resellnom.com';
+$pids  = [4, 6, 9];
+$currency = 2; // BDT
+
+function curlGet($url) {
+    $ch = curl_init($url);
+    curl_setopt_array($ch,[
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT        => 8,
+        CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_USERAGENT      => 'Mozilla/5.0',
+    ]);
+    $body = curl_exec($ch);
+    $code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $err  = curl_error($ch);
+    curl_close($ch);
+    return ['body'=>$body,'code'=>$code,'error'=>$err];
+}
+
+$results = [];
+foreach($pids as $pid) {
+    $results[$pid] = [
+        'price_monthly' => curlGet("$whmcs/feeds/productsinfo.php?pid=$pid&get=price&billingcycle=monthly&currency=$currency"),
+        'price_annual'  => curlGet("$whmcs/feeds/productsinfo.php?pid=$pid&get=price&billingcycle=annually&currency=$currency"),
+        'name'          => curlGet("$whmcs/feeds/productsinfo.php?pid=$pid&get=name"),
+        'products_json' => curlGet("$whmcs/feeds/products.php?pid=$pid&currency=$currency"),
+    ];
+}
+?>
+<!doctype html><html><head><meta charset="utf-8">
+<title>WHMCS Debug — ResellNom</title>
+<meta name="robots" content="noindex">
+<style>
+body{font-family:monospace;background:#1e1e2e;color:#cdd6f4;padding:20px;font-size:13px;}
+h1{color:#89b4fa;margin-bottom:20px;}
+h2{color:#cba6f7;margin:20px 0 8px;font-size:15px;}
+h3{color:#a6e3a1;margin:14px 0 4px;font-size:13px;}
+.box{background:#313244;border-radius:8px;padding:14px;margin-bottom:10px;border-left:3px solid #89b4fa;word-break:break-all;}
+.box.ok{border-left-color:#a6e3a1;}
+.box.err{border-left-color:#f38ba8;color:#f38ba8;}
+.label{color:#89b4fa;font-weight:bold;}
+.val{color:#a6e3a1;}
+.raw{color:#f9e2af;font-size:12px;margin-top:6px;white-space:pre-wrap;}
+.code{color:#cba6f7;}
+.warn{background:#45475a;border-left:3px solid #fab387;padding:10px 14px;border-radius:6px;margin-bottom:16px;color:#fab387;}
+</style></head><body>
+<h1>🔍 WHMCS API Debug — ResellNom</h1>
+<div class="warn">⚠️ DELETE this file after debugging! <strong>whmcs-debug.php</strong></div>
+
+<?php foreach($results as $pid => $endpoints): ?>
+<h2>📦 Product PID: <?=$pid?></h2>
+
+<?php foreach($endpoints as $label => $r): ?>
+<h3><?=$label?></h3>
+<div class="box <?=$r['code']===200?'ok':($r['error']?'err':'')?>">
+    <span class="label">HTTP:</span> <span class="code"><?=$r['code']?></span>
+    <?php if($r['error']): ?>
+    | <span class="label">Error:</span> <span style="color:#f38ba8"><?=htmlspecialchars($r['error'])?></span>
+    <?php endif; ?>
+    <br>
+    <span class="label">Raw response:</span>
+    <div class="raw"><?=htmlspecialchars(substr($r['body']??'(empty)',0,500))?></div>
+    <?php
+    // Parse what we got
+    $body = $r['body'] ?? '';
+    $stripped = trim(strip_tags(html_entity_decode($body)));
+    if($stripped && $stripped !== $body):?>
+    <br><span class="label">strip_tags result:</span>
+    <span class="val"><?=htmlspecialchars($stripped)?></span>
+    <?php endif;
+    // Try JSON parse
+    $json = json_decode($body, true);
+    if($json): ?>
+    <br><span class="label">JSON parsed:</span>
+    <div class="raw"><?=htmlspecialchars(json_encode($json, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE))?></div>
+    <?php endif; ?>
+</div>
+<?php endforeach; ?>
+<?php endforeach; ?>
+
+<div class="warn" style="margin-top:30px;">
+    ✅ Now you can see exactly what format WHMCS returns — share this with your developer to fix the price fetch.
+    <br>🗑️ <strong>Delete this file: whmcs-debug.php</strong>
+</div>
+</body></html>

@@ -1,0 +1,302 @@
+
+
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Terms & Service - Resellnom</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+		<!-- CSS here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/animate.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/nice-select.css">
+        <link rel="stylesheet" href="css/flaticon.css">
+        <link rel="stylesheet" href="css/odometer.css">
+        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="css/default.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+    <body>
+
+        <!-- Preloader -->
+        <div id="preloader">
+            <div class="preloader-wrapper">
+                <div class="spinner"></div>
+            </div>
+        </div>
+        <!-- Preloader-end -->
+
+		<!-- Scroll-top -->
+        <button class="scroll-top scroll-to-target" data-target="html">
+            <i class="fas fa-angle-up"></i>
+        </button>
+        <!-- Scroll-top-end-->
+
+        <?php include "./inc/header.php"; ?>
+
+        <!-- main-area -->
+        <main>
+
+            <!-- breadcrumb-area -->
+            <section class="breadcrumb-area breadcrumb-bg" data-background="img/bg/breadcrumb_bg.jpg" style="background-image: url(&quot;img/bg/breadcrumb_bg.jpg&quot;);">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="breadcrumb-content text-center">
+                                <h2>Terms & Service</h2>
+                                <nav aria-label="breadcrumb">
+                                    <ol class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">Terms & Service</li>
+                                    </ol>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="breadcrumb-shape alltuchtopdown"><img src="img/images/breadcrumb_roket.png" alt=""></div>
+            </section>
+            <!-- breadcrumb-area-end -->
+            
+            
+  <!--page header section end-->
+
+    <!--breadcrumb bar start-->
+  
+    <!--breadcrumb bar end-->
+
+    <!--knowledge base section start-->
+   <section class="knowledge-base-section ptb-100">
+<div class="container">
+<div class="row justify-content-between">
+<div class="col-md-8 col-lg-8">
+<div class="content-with-sidebar">
+<div class="section-heading">
+<br/>
+<p class="lead">Effective date: 1 April 2021</p>
+</div>
+<div id="nav-id-1" class="pt-5">
+<h4>Users and customers of Services provided by ResellNom must accept the terms and conditions of business set out below.</h4> <br />
+<p>We make no representation that the domain name you wish to register is capable of being registered by or for you or that it will be registered in your name. You should not assume registration of your requested domain name(s) until you have been notified that it has been registered.</p>
+<p>The registration and use of your domain name is subject to the terms and conditions of use applied by the relevant naming authority; ICANN in the case of .COM/NET/ORG and Nominet in the case of domain names ending with .UK you shall ensure that you are aware of those terms and conditions and that you comply with them. You shall have no right to bring any claim against us in respect of refusal to register a domain name. Any administration charge paid by you to us shall be non-refundable notwithstanding refusal by the naming authority to register your desired name.</p>
+<p>If you engage in the use of inappropriate language in our live chat, ticket system, or any form of communication, we will immediately suspend your account, and you will not be eligible for a refund.</p>
+<p>We shall have no liability in respect of the use by you of any domain name; any dispute between you and any other person must be resolved between the parties concerned in such dispute. If any such dispute arises, we shall be entitled, at our discretion and without giving any reason, to withhold, suspend or cancel the domain name. We shall also be entitled to make representations to the relevant naming authority but will not be obliged to take part in any such dispute.</p>
+<p>We shall not release any domain to another provider unless full payment for that domain has been received by us. All charges payable by you for the Services shall be in accordance with the scale of charges and rates published from time to time by us on our web site and shall be due and payable in advance of our service provision.</p>
+<p>Without prejudice to our other rights and remedies under this Agreement, if any sum payable is not paid on or before the due date, we shall be entitled forthwith to suspend the provision of Services to you.</p>
+<p>You shall indemnify us and keep us indemnified and hold us harmless from and against any breach by you of these terms of business and any claim brought against us by a third party resulting from the provision of Services by us to you and your use of the Services.</p>
+<p>If you fail to pay any sums due to us as they become due, we may suspend the Services and/or terminate this Agreement forthwith without notice to you.</p>
+<p>If you break any of these terms and conditions and you fail to correct the breach within seven (7) days following written notice from us specifying the breach, we may terminate this Agreement forthwith.</p>
+<p>If you are a and you go into insolvent liquidation or suffer the appointment of an administrator or administrative receiver or enter into a voluntary arrangement with your creditors, we shall be entitled to terminate this Agreement forthwith.</p>
+<p>On termination of this Agreement or suspension of the Services we shall be entitled immediately to block your Web Site and to remove all data located on it. We shall be entitled to delete all such data but we may, at our discretion, hold such data for such period as we may decide to allow you to collect it at your expense, subject to payment in full of any amounts withstanding and payable to us.</p>
+</div>
+<div id="nav-id-2" class="pt-5">
+<h5>Affiliates</h5>
+<p>Affiliates may not mask, hide or modify the affiliate link. It must be used as displayed in the client area.</p><p>You may not spam or advertise in areas or sections of websites that breach the rules of the displaying site. Doing so will result in the link being reported.</p>
+<br/>You can't use affiliate link for own usages.
+<br/>You should not engage in any blackhat seo/spam link building techniques in order to generate more referrals for HostMdn
+<br/>are required to disclose the affiliate relationship with ResellNomon your website.</div>
+<div id="nav-id-3" class="pt-5">
+<h5>Refund Policy</h5>
+<p>If you are unhappy with any aspect of our service, please contact our support department who will attempt to rectify the situation. If the problem cannot be fixed and you are unhappy with the service you are entitled to a refund within 03 days. There are no refunds past the 03 day period.</p>
+<p>Refunds are not available for .COM, .NET, .ORG or any other domain names, SSL Certificates, Domain Transfer In fees, Domain Transfer Out fees, or any other products or services provided by ResellNom through other companies.</p>
+<p>No refunds are provided for VPS or Dedicated servers under any circumstances.</p>
+<p>No refunds will be made if we terminate your hosting or other services due to violation of our Acceptable Use Policy or any other violation of our Terms and Conditions, except as may be provided therein. This does not affect your statutory rights.</p>
+<p>Credit on your account cannot be refunded and must be used for purchases and renewals.</p>
+
+<p>Accounts purchased under a promotion, with or without a promo code, are excluded from the 03 day money back guarantee.</p>
+<p>Any funds sent to ResellNom which are in excess of the amount owed can only be reimbursed in credit and cannot be refunded.</p>
+</div>
+<div id="nav-id-4" class="pt-5">
+<h5>SLA Conditions</h5>
+<p>If your service drops below 99.00% uptime in any given month you will be credited with one free month. This must be claimed within 7 days of our monitoring dropping below this level.</p>
+<p>Any planned maintenance work is except from this guarantee and will be ignored. Dedicated servers currently have no SLA.</p>
+<p>Uptime level is calculated by our status page and monitors only.</p>
+</div>
+<div id="nav-id-5" class="pt-5">
+<h5>Free Domain Conditions</h5>
+<p>A free domain name will be registered for you with any hosting package for any period of time.</p>
+<p>Only one domain will be registered free of charge per account.</p>
+<p>Minimum hosting term of 3 months, after which you will be free to transfer the domain to another host should you wish. The domain also may not be transferred to another client during this time.</p>
+<p>If you cancel your hosting before the 3 month paid period ResellNom reserve the right to cancel or resell your domain.</p>
+<p>The offer applies to .com, .net, .biz, .co.uk, .org.uk and .me.uk domains only.</p>
+</div>
+<div id="nav-id-6" class="pt-5">
+<h5>Delivery of Services</h5>
+<p>Immediately upon successful payment you will receive an automated receipt from our systems. Please print an retain a copy of this and retain in a safe place for future reference.</p>
+<p>Your unique customer username will be on this receipt and should be used for an enquires to ResellNom.</p>
+<p>Please note that we aim to deliver all goods as soon as signup is complete. If we will be unable to adhere to this you will be informed via email or telephone or both. Payment will be deducted when services are delivered.</p>
+<p>All orders are delivered electronically via email, If you have any questions about your order please contact us at <span class="__cf_email__" data-cfemail="91e2e4e1e1fee3e5d1e2f0e5f8e2f7e8f9fee2e5bff2fefcbf">[email&#160;protected]</span></p>
+<p>Our trading hours are 365 Days a Year, 24/7. Normally we will respond within 1 hours of receiving your enquiry.</p>
+<p>The services available on this site are subject to both export and or import restrictions. Please check regulations in the country you are in to see if these products are allowed for import into your country.</p>
+<p>We will not add charges to customers using either VISA or Mastercard card schemes. The final price will be the same regardless of payment method.</p>
+</div>
+<div id="nav-id-7" class="pt-5">
+<h5>Web Hosting</h5>
+<p>These Terms of Service and Acceptable Use Policies ("Terms and Policies") are an essential part of your relationship with ResellNom. By using your ResellNom account, you agree to all of the Terms and Policies set out in this document.</p>
+</div>
+<div id="nav-id-8" class="pt-5">
+<h5>General Terms and Policies</h5>
+<p>The Service is provided to authorised persons or organisations (referred to in this document as "Subscriber" or "you"). Any use of the service is subject to any restrictions listed below. By using the Service, you agree to be bound by all of theses Terms and Policies. If you do not agree to be bound by these Terms and Policies, you must cancel your account immediately and may not thereafter use or attempt to use the Service.</p>
+<p>Coverage - If you are an individual Subscriber, these Terms and Policies apply to all persons who gain access through your account. If you are a commercial Subscriber, these Terms and Policies apply to all your employees, agents and/or customers. In either instance, a violation of these Terms and Policies by anyone using your account will be treated as a violation by you.</p>
+<p>Prices and Charges - ResellNom provides the use of cPanel and domain control panels to you free of charge, but if through misuse or through abuse on your part we incur any charges, we reserve the right to pass these charges on to you.</p>
+<p>Term - The Service is provided to you for as long as you wish to use it, however we withhold the right to terminate the service if you use it in a way that violates the terms of use.</p>
+<p>Backups - ResellNom carry's out 4 backups per day, these backups are strictly for our own use in-case of a server failure. However you can also login to the backup server to restore files. This is not meant as a replacement for keeping your own backups and we are not responsible for loss of data.</p>
+<p>If a customer has outstanding dues, they will not be eligible to initiate a domain transfer until all outstanding payments are settled. Once all dues are paid in full, the customer can proceed with the domain transfer process.</p>
+</div>
+<div id="nav-id-9" class="pt-5">
+<h5>Grounds for Suspension and Termination</h5>
+<p>You agree to comply with these Terms and Policies. Any violation of either, these Terms and Policies or the other rules, regulations or policies noted above may serve as cause for ResellNom to suspend or terminate your account. You agree that ResellNom has the right, with or without notice, to suspend or terminate your account upon the first or subsequent occurrence of any of the following</p>
+<ol>
+<li>* Using the Service in a way, which constitutes violation of any applicable statute, law, court order, tariff, regulation, or treaty (including, but not limited to, intellectual property, communications, privacy, criminal and international law)</li>
+<li>* If you engage in the use of inappropriate language in our live chat, ticket system, or any form of communication, we will immediately suspend your account, and you will not be eligible for a refund.</li>
+<li>* Hosting websites dedicated to pornography. Legal adult content is allowed however it cannot be the main focus of your website.</li>
+<li>* Using the Service in a manner intended to abuse or violate the privacy or property rights of others, including but not limited to sending of unsolicited bulk e-mail ("spamming"); this ground for suspension or termination is separate from and in addition to the fees which will result from such activity. You agree to pay a clean up fee of £30 per hour if any of our server IP addresses appear on a blacklist as a result of spam from your account.</li>
+<li>* Using your hosting as a file or image hosting service.</li>
+<li>* Using the Service in an attempt to break security, or so as to actually break security of any computer network (including the Service itself), or to access an account, message, or file which does not belong to you.</li>
+<li>* Using your account as a backup service. All files must be part of your website and must be linked to from your account. Dedicated server clients are exempt from this.</li>
+<li>* Using the Service in such a way as to forge or mis-represent headers, addresses, or other identification in electronic mail or websites, or using any other method to disguise the sender's identity or location. This includes the hosting of Proxy Server applications.</li>
+<li>* Uploading, linking to or storing warez, cracks or other pirated software.</li>
+<li>* Assisting in or directly distributing copyrighted material.</li>
+<li>* Excessively using the Service in such a way as to limit the bandwidth available to others.</li>
+<li>* Providing fake or incomplete contact details, including name, postal address and telephone number.</li>
+<li>* Using the Service to operate server programs, including, but not limited to mail servers, IRC servers, game servers, ftp servers, Web servers, or streaming audio/video servers.</li>
+<li>* Using the Service for unauthorised relays through any third party systems.</li>
+<li>* Attempting, in any way, to interfere with or deny service to any user or any host on the Internet.</li>
+<li>* Performing a chargeback on any transactions past or present will result in account suspension until resolved. If a chargeback is issued we reserve the right to remove your account any deny any future business.</li>
+<li>* Using the Service for mail bombing, which includes any instance where multiple messages are sent to a specific destination with the intent to render the recipient and/or the electronic system serving that recipient dysfunctional.</li>
+<li>* Using the Service to add or attempt to add addresses to any mailing list (yours or a third party's) without the explicit positive consent of the addressee(s).</li>
+<li>* Attempting to cancel, supersede, or otherwise interfere with email other than your own.</li>
+<li>* Engaging in harassment, whether through language, frequency, or size of messages, either with email or website content.</li>
+<li>* Using the Service to engage in syn flood attacks, which are defined as overburdening a recipient computer system by sending a high volume of spurious data which effective impedes or totally disables functionality of the recipient system(s), or any other methods of denial-of-service attacks.</li>
+<li>* Furnishing false data on your sign-up form, contract, or online application, including providing fraudulent credit card or other payment information.</li>
+<li>* No bill credit will be given for a period of suspension. In the event of termination of your use of the Service under this section, ResellNom may at its sole discretion retain any or all amounts you have paid for use of the Service as liquidated damages for your actions.</li>
+<li>* Security - You agree not to access or attempt to access private areas of the Service. You agree to notify ResellNom as soon as you become aware of an unauthorized use of your account and/or any breach or attempted breach of security on the Service.</li>
+<li>* Intellectual Property - ResellNom does not undertake to examine or review messages, files, or other materials, which are accessible through, pass through, or reside on the Service. Complaints regarding alleged copyright infringement can be sent to <span class="__cf_email__" data-cfemail="7a1b180f091f3a091b0e13091c031215090e5419151754">[email&#160;protected]</span></li>
+<li>* Continuing a specific identification of the allegedly infringing material and the location(s) on ResellNom facilities where the materials are to be found. Upon receipt of such written notice, ResellNom will expeditiously remove or block access to the allegedly infringing material, and provide notice to the person who had posted that material. If ResellNom receives a notification from that person indicating that the claim of infringement was based upon mistake or misidentification, ResellNom will send you a copy of that notification. Unless you notify ResellNom of appropriate court action to restrain the alleged infringement, the challenged material will then be restored or other wise made accessible again.</li>
+<li>* Liability - You agree that use of the Service is at your own risk. Except for information, products, or services clearly identified as being supplied byResellNom, neither ResellNom nor any of its affiliate controls, provides, operates, or is in any way responsible for any information, products, or services accessible through the Service.ResellNom neither endorses nor is responsible for the accuracy of third-party material(s), and you agree that ResellNom is not responsible for any loss or damage caused by your use of, or reliance on, such material(s). You understand and agree that you have sole responsibility for your posting of any information or material to any site or newsgroup on the Internet, including but not limited to postings to Web sites, whether residing on ResellNom equipment or not, postings to newsgroups, and participation in any on-line chat sessions. You agree to indemnify and hold harmless ResellNom and its employees, and other customers and subscribers from and against any claims, losses, costs, liability, damages or expenses arising out of your postings.</li>
+<li>* You agree that, should you use the Service to send or receive voice communications, ResellNom is not acting as a telecommunications carrier or telephone , that there is no representation made by ResellNom as to the suitability of the Service for such use, and that all risk of connection, transmission quality, and accuracy of communications is solely on you, and that ResellNom has no liability of any sort for the failure or lack of quality of such use of the Service.</li>
+<li>* You agree to be liable for any damages or loss of service which results in damages to ResellNom as a result of any spamming or other violations of Section 5 above. These damages include, but are not limited to, system shut downs, retaliatory attacks or data flooding, and loss of peering arrangements. You agree that ResellNom may pursue any such claims against you in Court.</li>
+<li>* You agree that in no event will ResellNom have financial liability to you.</li>
+<li>* Warranty - ResellNom MAKES NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF TITLE, NON-INFRINGEMENT, AND WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE SERVICE, OR ANY SOFTWARE OR OTHER MATERIAL AVAILABLE THROUGH THE SERVICE, REGARDLESS OF WHAT YOU MAY HAVE TOLD ResellNom ABOUT YOUR INTENDED USE OF THE SERVICE. NO ORAL ADVICE OR INFORMATION GIVEN BY ResellNom OR ITS EMPLOYEES SHALL CREATE A WARRANTY OR OTHERWISE ALTER THE PROVISIONS OF THIS SECTION.</li>
+<li>* THE SERVICE AND ANY SOFTWARE PROVIDED TO YOU BY ResellNom ARE PROVIDED ON AN "AS IS, AS AVAILABLE" BASIS; ResellNom DOES NOT WARRANT THAT THEY WILL BE ERROR-FREE AND/OR UNINTERRUPTED, OR THAT DEFECTS WILL BE CORRECTED. ResellNom DOES NOT GUARANTEE THE SECURITY OR BACK-UP OF ANY OF YOUR DATA WHICH MAY BE STORED ON THE SERVICE.</li>
+</ol>
+</div>
+<div id="nav-id-10" class="pt-5">
+<h5>Resource Usage</h5>
+<p>User may not: Use 10% or more of system resources for longer than 60 seconds. There are numerous activities that could cause such problems; these include: CGI scripts, FTP, PHP, HTTP, etc.</p>
+<ol>
+<li>* Run any type of interactive real-time chat applications that require server resources. Remotely-hosted services are fully allowed.</li>
+<li>* Run stand-alone, unattended server-side processes at any point in time on the server. This includes any and all daemons, such as IRCD.</li>
+<li>* Run any software that interfaces with an IRC (Internet Relay Chat) network.</li>
+<li>* Run any bit torrent application, tracker, or client.</li>
+<li>* Participate in any file-sharing/peer-to-peer activities.</li>
+<li>* Run any gaming servers such as counter-strike, half-life, battlefield1492, etc.</li>
+<li>* Run cron entries with intervals of less than 15 minutes.</li>
+</ol>
+<p>You may create your own backup of your account from your control panel however these may only be stored for up to 7 days. Please download archives to a local source and remove them from your account.</p>
+</div>
+<div id="nav-id-11" class="pt-5">
+<h5>Content</h5>
+<p>You understand and agree that information and access available through the Service may include controversial, sexually explicit, or other material that may be offensive to you or users for whom you are responsible. ResellNom has no responsibility for or control over such materials, and you take sole responsibility for using any available screening software or other methods of limiting access (specifically including the access of minors) to any material you may find objectionable.</p>
+</div>
+<div id="nav-id-12" class="pt-5">
+<h5>Privacy</h5>
+<p>ResellNom will not provide names, addresses, telephone numbers, email addresses, or other personally identifiable information on any Subscriber to any third party without prior permission from that Subscriber, or as required under an appropriate court or administrative directive, including a facially valid subpoena, or as necessary to render the Service. ResellNom may provide aggregate data on Subscribers to third parties in the operation of ResellNom business.</p>
+</div>
+<div id="nav-id-13" class="pt-5">
+<h5>Disputes</h5>
+<p>You agree that any dispute between you and ResellNom arising out of your use of the Service on in any way based upon your subscription to and/or use of the Service which cannot be resolved between you and ResellNom will be submitted by the aggrieved party for binding arbitration under the auspices of the English, Bangla law.</p>
+</div>
+<div id="nav-id-14" class="pt-5">
+<h5>Governing Law</h5>
+<p>These Terms and Policies are governed in all respects under English, Bangla laws.</p>
+</div>
+<div id="nav-id-15" class="pt-5">
+<h5>Cancellation Procedure</h5>
+<p>Cancellation requests must be submitted through the client area. To do this, click the icon next to the package you wish to cancel then press 'Request Cancellation'. You must then complete and submit the form.</p>
+<p>Choosing an immediate cancellation means your service will be terminated with 24 hours of submitting the form.</p>
+<p>It is your responsibility to ensure any paypal subscriptions you have setup are cancelled.</p>
+<p>No other forms of cancellation are accepted.</p>
+<p>Cancellations must be submitted before the invoice for that billing cycle is due. Failure to do so will result in the invoice being due. Cancellation requests can only be submitted if the account has no due invoices.</p>
+</div>
+<div id="nav-id-16" class="pt-5">
+<h5>Resellers</h5>
+<p>Resellers may use their website for personal use or to sell to their own clients. Resellers cannot host free accounts under any circumstances.</p>
+<p>We will transfer up to 30 accounts free of charge. Each account thereafter is charged at $1.50 each.</p>
+</div>
+<div id="nav-id-17" class="pt-5">
+<h5>Discount Vouchers</h5>
+<p>Only one voucher can be used per transaction.</p>
+<p>If the order value is lower than the value of the voucher, the remaining amount is lost.</p>
+<p>Discount vouchers are restricted to one per customer.</p>
+<p>Vouchers can be redeemed against the purchase of any Shared, Reseller or Dedicated service.</p>
+</div>
+<div id="nav-id-18" class="pt-5">
+<h5>Amendments</h5>
+<p>These Terms and Policies may be amended in any respect at any time by ResellNom upon the posting of the amended Terms and Policies on the terms of use section of the Service. Your continued use of the Service will be deemed consent to any such amended Terms and Policies. If you do not wish to continue to use the Service as a result of any such amended Terms and Policies, you may provide notice of your wish to terminate your use of the Service to ResellNom.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-lg-4">
+<div id="sticky">
+<div class="sidebar-content-wrap p-5 rounded">
+<h5><i class="ti-link"></i> Quick Links</h5>
+<ul class="sidebar-list">
+<li><a href="#nav-id-1">Welcome ResellNom </a></li>
+<li><a href="#nav-id-2">Affiliates </a></li>
+<li><a href="#nav-id-3">Refund Policy</a></li>
+<li><a href="#nav-id-4">SLA Conditions</a></li>
+<li><a href="#nav-id-5">Free Domain Conditions</a></li>
+<li><a href="#nav-id-6">Delivery of Services</a></li>
+<li><a href="#nav-id-7">Web Hosting</a></li>
+<li><a href="#nav-id-8">General Terms and Policies </a></li>
+<li><a href="#nav-id-9">Grounds for Suspension and Termination</a></li>
+<li><a href="#nav-id-10">Resource Usage</a></li>
+<li><a href="#nav-id-11">Content</a></li>
+<li><a href="#nav-id-12">Privacy</a></li>
+<li><a href="#nav-id-13">Disputes</a></li>
+<li><a href="#nav-id-14">Governing Law</a></li>
+<li><a href="#nav-id-15">Cancellation Procedure </a></li>
+<li><a href="#nav-id-16">Resellers</a></li>
+<li><a href="#nav-id-17">Discount Vouchers</a></li>
+<li><a href="#nav-id-18">Amendments</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+    <!--call to action section end-->
+
+       <?php include "./inc/footer.php"; ?>
+
+
+		<!-- JS here -->
+        <script src="js/vendor/jquery-3.5.0.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/jquery.nice-select.min.js"></script>
+        <script src="js/jquery.odometer.min.js"></script>
+        <script src="js/jquery.countdown.min.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/slick.min.js"></script>
+        <script src="js/ajax-form.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/custom.js"></script>
+    </body>
+</html>
