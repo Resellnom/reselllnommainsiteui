@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="1920.000000pt" height="994.000000pt" viewBox="0 0 1920.000000 994.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by Mohit Hasan
+</metadata>
+<g transform="translate(0.000000,994.000000) scale(0.100000,-0.100000)"  fill="url(#gradient)" stroke="none">
+ 
+<defs> 
+    <linearGradient id="gradient" x1="1" y1="0" x2="0" y2="10%" > 
+      <stop offset="0%" style="stop-color:#146af8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#01adef;stop-opacity:1" />
+    </linearGradient> 
+  </defs>
+
+<path class="bg" d="M5985 9934 c-436 -44 -712 -101 -1210 -249 -535 -160 -750 -210
+-1040 -244 -376 -44 -847 -84 -1345 -113 -295 -18 -1550 -18 -1800 0 -258 18
+-530 41 -562 48 l-28 6 0 -4396 0 -4395 38 -10 c65 -17 461 -99 632 -130 792
+-146 1380 -202 2120 -202 590 0 1067 30 1810 116 407 47 1124 146 1420 195
+1259 210 2264 251 3190 130 457 -60 815 -137 1565 -337 1035 -275 1516 -353
+2179 -353 581 0 899 54 1702 285 519 150 700 188 1099 229 510 53 989 88 1489
+107 338 13 1382 7 1616 -10 80 -6 189 -13 243 -17 l97 -7 0 4351 0 4350 -152
+37 c-1445 347 -2534 436 -3913 319 -549 -46 -1439 -162 -2149 -279 -1478 -245
+-2589 -242 -3711 10 -222 50 -340 80 -805 207 -772 209 -1108 280 -1580 334
+-137 15 -798 28 -905 18z"/>
+</g>
+</svg>
